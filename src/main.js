@@ -16,7 +16,7 @@ let containersection = document.querySelector('.containersection');
   }
   else{
     errorname.classList.add("invisible");
-    // errorname.classList.add("-mt-5");
+    errorname.classList.add("-mt-5");
   }
 
 
