@@ -22,6 +22,8 @@ let containersection = document.querySelector('.containersection');
   else{
     errorname.classList.add("invisible");
     errorname.classList.add("mt-2");
+    inputname.classList.add("invisible");
+    greetbtn.classList.add("-mt-15");
   }
 
 
